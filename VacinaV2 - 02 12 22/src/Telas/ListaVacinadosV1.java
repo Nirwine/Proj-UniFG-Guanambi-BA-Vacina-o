@@ -178,7 +178,7 @@ public class ListaVacinadosV1 extends javax.swing.JFrame {
                 tabelaUsuario.addRow(novoProduto);
             }
         } catch (SQLException ex) {
-               JOptionPane.showMessageDialog(null, "desgraça");
+               JOptionPane.showMessageDialog(null, "Usuario/senha inválida, solicite ao dono do projeto.");
             
         }
 
