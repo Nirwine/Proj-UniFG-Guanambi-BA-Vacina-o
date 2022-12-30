@@ -1,0 +1,3 @@
+- Install XAMP (https://www.apachefriends.org/pt_br/download.html)
+Connect to **Apache** and **MySQL** (https://prnt.sc/_C9qGAsFWmE6)
+port: 3306
