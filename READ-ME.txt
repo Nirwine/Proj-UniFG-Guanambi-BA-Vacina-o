@@ -1,3 +1,6 @@
 - Install XAMP (https://www.apachefriends.org/pt_br/download.html)
 Connect to **Apache** and **MySQL** (https://prnt.sc/_C9qGAsFWmE6)
 port: 3306
+-------
+Olá, projeto feito por alunos da UniFG em Guanambi-BA
+Desenvolvemos um aplicativo local e gratúito para organização/controle de vacinas aplicadas/não aplicadas em pacientes abrangendo a maioria de todos os centros de saúde do país.
